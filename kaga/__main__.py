@@ -60,7 +60,7 @@ Saya memiliki banyak fitur praktis ☺️ seperti:
 • Sistem penyimpanan Note.
 • Sistem Warning.
 
-*Dikelolah oleh ❤️:* [kulionline](@kuli_online_grup)
+*Dikelolah oleh ❤️:* [kulionline](https://t.me/kuli_online_grup)
 
 Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 """
