@@ -1,14 +1,14 @@
 {
-      "name": "KagaRobot",
+      "name": "KuliOnline Bot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
-         "anime",
+         "kuli",
          "group",
          "manager",
-         "Kaga"
+         "online"
       ],   
-   "repository": "https://github.com/HayakaRyu/KagaRobot",
+   "repository": "https://github.com/md5hash16/KuliOnline",
    "addons": [
       {
          "options": {
@@ -40,12 +40,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "HayakaRyu"
+         "value": "md5hash16"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "ZeroBotSupport"
+         "value": "kuli_online_grup"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
@@ -88,7 +88,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "@Kuli4online"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
