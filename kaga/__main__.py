@@ -81,7 +81,7 @@ buttons += [
             url=f"t.me/{dispatcher.bot.username}?start=help",
         ),
         InlineKeyboardButton(
-            text="Gban Logs 🚫", url="https://t.me/joinchat/AAAAAEuYErj6v8_DOigW0g"
+            text="Gban Logs 🚫", url="https://t.me/joinchat/WCLMeRwFjl0oDcMW"
         ),
         
     ]
