@@ -60,7 +60,7 @@ Saya memiliki banyak fitur praktis ☺️ seperti:
 • Sistem penyimpanan Note.
 • Sistem Warning.
 
-*Dikelolah oleh ❤️:* [Hayaka Ryu](https://t.me/HayakaRyu)
+*Dikelolah oleh ❤️:* [kulionline](https://t.me/kuli_online_grup)
 
 Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 """
@@ -68,7 +68,7 @@ Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 buttons = [
     [
         InlineKeyboardButton(
-            text="Tambahkan Saya ke Grup 👥", url="t.me/KagaRobot?startgroup=true"
+            text="Tambahkan Saya ke Grup 👥", url="t.me/kulionlinebot?startgroup=true"
         ),
     ]
 ]
@@ -90,10 +90,10 @@ buttons += [
 buttons += [
     [
         InlineKeyboardButton(
-            text="Support 🎗️", url="https://t.me/ZeroBotSupport"
+            text="Support 🎗️", url="https://t.me/kuli_online_grup"
         ),
         InlineKeyboardButton(
-            text="Channel 📢", url="https://t.me/HayakaRyuUpdates"
+            text="Channel 📢", url="https://t.me/kuli_online_channel"
         ),
     ]
 ]
