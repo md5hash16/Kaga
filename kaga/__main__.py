@@ -50,17 +50,17 @@ Hai, perkenalkan nama saya adalah *{dispatcher.bot.first_name}*.
 Saya adalah bot manajemen grup bertema Anime dengan banyak Fitur Khusus.
 Anda dapat menemukan daftar perintah yang tersedia dengan /help.
 
-Bergabunglah di [Group](https://t.me/ZeroBotSupport) Jika Anda ingin Melaporkan Masalah 🙂
+Bergabunglah di [Group](https://t.me/kuli_online_grup) Jika Anda ingin Melaporkan Masalah 🙂
 
 Saya di sini untuk membuat pengelolaan grup Anda menyenangkan dan mudah!
 Saya memiliki banyak fitur praktis ☺️ seperti:
 
-• Anime
+• Administrator
 • Pengendalian flood.
 • Sistem penyimpanan Note.
 • Sistem Warning.
 
-*Dikelolah oleh ❤️:* [kulionline](https://t.me/kuli_online_grup)
+*Dikelolah oleh ❤️:* [kulionline](@kuli_online_grup)
 
 Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 """
