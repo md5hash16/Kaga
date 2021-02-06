@@ -16,7 +16,7 @@ mudah digunakan. Perhatikan bahwa proyek ini menggunakan bot Telegram terkenal p
 
 Dapat ditemukan di telegram sebagai [KuliOnline](http://t.me/kulionlinebot).
 
-Bergabunglah dengan [Dukungan Grup](https://t.me/ZeroBotSupport) jika Anda hanya ingin mengikuti info terbaru tentang fitur atau pengumuman baru.
+Bergabunglah dengan [Dukungan Grup](http://t.me/kuli_online_group) jika Anda hanya ingin mengikuti info terbaru tentang fitur atau pengumuman baru.
 
 ## Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
