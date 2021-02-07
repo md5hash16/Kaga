@@ -21,7 +21,7 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "1617669038:AAEBAQNhUFIMW_LEsC_f2i6ZFx2__YtCa44"
       },    
       "DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -31,12 +31,12 @@
       "MONGO_DB_URI": {
          "description": "Your MongoDB, empty this field if you dont have one.",
          "required": false,
-         "value": "mongodb+srv://username:pwd@host.port.mongodb.net/db_name"
+         "value": "mongodb+srv://userge:userge@cluster0.tcomj.mongodb.net/<dbname>?retryWrites=true&w=majority"
       },  
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1025855210"
+         "value": "1002291566"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
@@ -45,17 +45,17 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "kuli_online_grup"
+         "value": "kulionline_support"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1025855210"
+         "value": "1002291566"
       },
       "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": false,
-         "value": ""
+         "value": "K8WMoQVobBKVv_SDTt7T9tqemobXds8Z5~SyioFIaPhpLIB1u5E244EUIdTduAz8"
       }, 
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -97,7 +97,7 @@
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
          "required": false,
-         "value": "CAACAgQAAx0CU_rCTAABAczQXyBOv1TsVK4EfwnkCUT1H0GCkPQAAtwAAwEgTQaYsMtAltpEwhoE"
+         "value": "CAACAgQAAx0EVKZn1wACBXhgHuRUmA4pXE2e9B99K6KlZNQbCgACRA4AAumynww59VWxpJcv6R4E"
       },
       "WALL_API": {
          "description": "Required for wallpaper. Get your's from https://wall.alphacoders.com/",
