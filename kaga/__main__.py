@@ -46,11 +46,11 @@ from kaga.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-Hai, perkenalkan nama saya adalah *{dispatcher.bot.first_name}*.
-Saya adalah bot manajemen grup bertema Anime dengan banyak Fitur Khusus.
+Hai, saya adalah *{dispatcher.bot.first_name}*.
+Saya adalah bot manajemen grup dengan banyak Fitur Khusus.
 Anda dapat menemukan daftar perintah yang tersedia dengan /help.
 
-Bergabunglah di [Group](https://t.me/kuli_online_group) Jika Anda ingin Melaporkan Masalah 🙂
+Bergabunglah di [Group](https://t.me/kuli_online_group) Jika Anda ingin🙂
 
 Saya di sini untuk membuat pengelolaan grup Anda menyenangkan dan mudah!
 Saya memiliki banyak fitur praktis ☺️ seperti:
@@ -90,7 +90,7 @@ buttons += [
 buttons += [
     [
         InlineKeyboardButton(
-            text="Support 🎗️", url="https://t.me/kuli_online_group"
+            text="Support 🎗️", url="https://t.me/kulionline_support"
         ),
         InlineKeyboardButton(
             text="Channel 📢", url="https://t.me/kuli_online_channel"
@@ -102,7 +102,7 @@ buttons += [
 
 HELP_STRINGS = f"""
 Halo! Nama saya adalah *{dispatcher.bot.first_name}*.
-Saya bot manajemen grup bertema Anime dengan beberapa tambahan yang menyenangkan! Lihatlah yang berikut ini untuk mendapatkan gambaran tentang beberapa \
+Saya bot manajemen grup dengan beberapa tambahan yang menyenangkan! Lihatlah yang berikut ini untuk mendapatkan gambaran tentang beberapa \
 hal-hal yang dapat saya bantu.
 
 *Perintah utama* yang tersedia:
