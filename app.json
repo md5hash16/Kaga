@@ -21,7 +21,7 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": "1617669038:AAEBAQNhUFIMW_LEsC_f2i6ZFx2__YtCa44"
+         "value": ""
       },    
       "DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -31,7 +31,7 @@
       "MONGO_DB_URI": {
          "description": "Your MongoDB, empty this field if you dont have one.",
          "required": false,
-         "value": "mongodb+srv://userge:userge@cluster0.tcomj.mongodb.net/<dbname>?retryWrites=true&w=majority"
+         "value": ""
       },  
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
@@ -55,7 +55,7 @@
       "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": false,
-         "value": "K8WMoQVobBKVv_SDTt7T9tqemobXds8Z5~SyioFIaPhpLIB1u5E244EUIdTduAz8"
+         "value": ""
       }, 
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
