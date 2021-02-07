@@ -50,7 +50,7 @@ Hai, perkenalkan nama saya adalah *{dispatcher.bot.first_name}*.
 Saya adalah bot manajemen grup bertema Anime dengan banyak Fitur Khusus.
 Anda dapat menemukan daftar perintah yang tersedia dengan /help.
 
-Bergabunglah di [Group](https://t.me/kuli_online_grup) Jika Anda ingin Melaporkan Masalah 🙂
+Bergabunglah di [Group](https://t.me/kuli_online_group) Jika Anda ingin Melaporkan Masalah 🙂
 
 Saya di sini untuk membuat pengelolaan grup Anda menyenangkan dan mudah!
 Saya memiliki banyak fitur praktis ☺️ seperti:
@@ -60,7 +60,7 @@ Saya memiliki banyak fitur praktis ☺️ seperti:
 • Sistem penyimpanan Note.
 • Sistem Warning.
 
-*Dikelolah oleh ❤️:* [kulionline](https://t.me/kuli_online_grup)
+*Dikelolah oleh ❤️:* [kulionline](https://t.me/kuli_online_group)
 
 Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 """
@@ -90,7 +90,7 @@ buttons += [
 buttons += [
     [
         InlineKeyboardButton(
-            text="Support 🎗️", url="https://t.me/kuli_online_grup"
+            text="Support 🎗️", url="https://t.me/kuli_online_group"
         ),
         InlineKeyboardButton(
             text="Channel 📢", url="https://t.me/kuli_online_channel"
@@ -272,7 +272,7 @@ def start(update, context):
 
         else:
             update.effective_message.reply_photo(
-                "https://telegra.ph/file/ef0c265be939ec29bb53c.jpg",
+                "https://telegra.ph/file/747b63bf4979ac0dd36a0.jpg",
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
